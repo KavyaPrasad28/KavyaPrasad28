@@ -2,7 +2,7 @@
 
 🚀 **Senior Software Engineer | .NET & WPF Developer | Problem Solver**  
 
-I’m a software engineer with 3+ years of experience specializing in **C#.NET, WPF, and Windows Desktop Applications**.  
+I’m a software engineer with 3.5+ years of experience specializing in **C#.NET, WPF, and Windows Desktop Applications**.  
 I enjoy **building features, optimizing existing applications, fixing complex bugs**, and making software more reliable and efficient.  
 
 💡 I believe in writing **clean, maintainable code** and continuously learning new technologies to deliver better solutions.  
